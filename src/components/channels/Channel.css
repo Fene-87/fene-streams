@@ -1,0 +1,24 @@
+.channel {
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 15px 0;
+}
+
+.channel:hover {
+  background-color: #25252c;
+}
+
+.channel-details {
+  display: flex;
+  align-items: center;
+}
+
+.channel-logo {
+  object-fit: contain;
+  margin-right: 15px;
+  width: 40px;
+  border-radius: 50%;
+}
