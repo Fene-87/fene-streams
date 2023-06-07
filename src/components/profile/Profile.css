@@ -54,3 +54,24 @@
   border-bottom: 5px solid #a970ff;
   padding-bottom: 10px;
 }
+
+.profile-recent {
+  margin-left: 40px;
+}
+
+.recent-items {
+  display: flex;
+}
+
+.profile-categories {
+  margin-top: 40px;
+  margin-left: 40px;
+}
+
+.profile-categories > h2 {
+  margin-bottom: 20px;
+}
+
+.profile-categories > h3 {
+  margin-top: 10px;
+}
